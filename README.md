@@ -14,4 +14,4 @@ HTML, CSS, and Javascript
 
 ## Deployed Image
 
-![Image of application](/assets/03-javascript-homework-demo.png  "Password Generator")
+![Image of application](/assets/03-javascript-homework-demo.png)
